@@ -1,6 +1,10 @@
 import javafx.application.Application;
 import javafx.stage.Stage;
 
+/**
+ * Main code driver
+ */
+
 public class PokerDriver extends Application {
     public static void main(String[] args) {
         launch(args);
